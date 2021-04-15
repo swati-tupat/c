@@ -10,10 +10,10 @@
 
 
 
-Build | Unity | [Git Inspector](using github.io option) |
------------------|-----------------|-----------------|-----------------|
-[![C/C++ CI](https://github.com/swati-tupat/LTTS_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/swati-tupat/LTTS_Project/actions/workflows/c-cpp.yml)| [![Unit Testing - Unity](https://github.com/swati-tupat/LTTS_Project/actions/workflows/Unit-Testing.yml/badge.svg)](https://github.com/swati-tupat/LTTS_Project/actions/workflows/Unit-Testing.yml)
- |[![Contribution Check - Git Inspector](https://github.com/shashanparekh/stepin_project/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/shashanparekh/stepin_project/actions/workflows/Git_Inspector.yml)|
+Build | Unity |
+-----------------|-----------------|
+[![C/C++ CI](https://github.com/swati-tupat/LTTS_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/swati-tupat/LTTS_Project/actions/workflows/c-cpp.yml)|
+[![Unit Testing - Unity](https://github.com/swati-tupat/LTTS_Project/actions/workflows/Unit-Testing.yml/badge.svg)](https://github.com/swati tupat/LTTS_Project/actions/workflows/Unit-Testing.yml)|
  
  
 ## Folder Structure
