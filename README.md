@@ -30,6 +30,11 @@ Unit Testing :
 
 [![Unit Testing - Unity](https://github.com/swati-tupat/LTTS_Project/actions/workflows/Unit-Testing.yml/badge.svg)](https://github.com/swati-tupat/LTTS_Project/actions/workflows/Unit-Testing.yml)
 
+C/C++ :
+
+[![C/C++ CI](https://github.com/swati-tupat/LTTS_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/swati-tupat/LTTS_Project/actions/workflows/c-cpp.yml)
+
+
 # Functions used
 * Structures
 * Pointer
