@@ -27,13 +27,13 @@ void cancel(void){
     tempFile = fopen("delete-line.txt", "w");
     if (srcFile == NULL || tempFile == NULL)
     {
-        printf("Unable to open file.\n");
-        printf("Please check you have read/write previleges.\n");
+        printf("Error in Opening file.\n");
+        printf("Please check your previleges.\n");
         exit(EXIT_FAILURE);
     }
-    printf("\nList of the Booked Tickets.\n\n");
+    printf("\nBooked Tickets: \n\n");
     printFile(srcFile);
-    printf("\nEnter Name of the Ticket Holder for Cancellation: ");
+    printf("\nEnter the name of Ticket Holder for Cancellation: ");
     scanf("%s", name);
     rewind(srcFile);
     num=deleteLine(srcFile, tempFile, name);
@@ -45,17 +45,17 @@ void cancel(void){
     RUN_TEST(test);
     UNITY_END();
     if(num==0){
-        printf("No record found for this Name\n");
-        printf("\nPress Enter to go back to  Main menu!");
+        printf("RECORD NOT FOUND !!!\n");
+        printf("\nPress any key to go back to  Main menu_");
         getchar();
 		getchar();
     }else{
-        printf("\nTicket is Cancelled Successfully\n");
-        printf("\n\n\nList after Cancellation of ticket .\n\n");
+        printf("\nTicket Cancelled Successfully..\n");
+        printf("\n\n\nList of ticket after Cancellation :\n\n");
         srcFile = fopen("seats_reserved.txt", "r");
         printFile(srcFile);
         fclose(srcFile);
-        printf("\nPress Enter to go back to  Main menu!");
+        printf("\nPress any key to go back to Main menu_");
         getchar();
         getchar();
     }    
