@@ -4,17 +4,9 @@
 # Project Name: Railway Reservation System
 
 # Description
-* This system focus on booking ticket of valid user whose credentials gets accepted
+* This system focus on booking ticket of valid user whose credentials gets accepted.
 * User can login to system to check the Train details and booked tickets
 * User can also verify that his/her ticket is booked or not.
-
-
-
-Build | Unity |
------------------|-----------------|
-[![C/C++ CI](https://github.com/swati-tupat/LTTS_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/swati-tupat/LTTS_Project/actions/workflows/c-cpp.yml)|
-[![Unit Testing - Unity](https://github.com/swati-tupat/LTTS_Project/actions/workflows/Unit-Testing.yml/badge.svg)](https://github.com/swati tupat/LTTS_Project/actions/workflows/Unit-Testing.yml)|
- 
  
 ## Folder Structure
 Folder             | Description
