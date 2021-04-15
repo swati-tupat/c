@@ -23,7 +23,9 @@ Contribution Check - Git Inspector :
 [![Contribution Check - Git Inspector](https://github.com/swati-tupat/LTTS_Project/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/swati-tupat/LTTS_Project/actions/workflows/Git_Inspector.yml)
 
 Cppcheck-action :
+
 [![cppcheck-action](https://github.com/swati-tupat/LTTS_Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/swati-tupat/LTTS_Project/actions/workflows/cppcheck.yml)
+
 # Functions used
 * Structures
 * Pointer
