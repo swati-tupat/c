@@ -26,6 +26,10 @@ Cppcheck-action :
 
 [![cppcheck-action](https://github.com/swati-tupat/LTTS_Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/swati-tupat/LTTS_Project/actions/workflows/cppcheck.yml)
 
+Unit Testing :
+
+[![Unit Testing - Unity](https://github.com/swati-tupat/LTTS_Project/actions/workflows/Unit-Testing.yml/badge.svg)](https://github.com/swati-tupat/LTTS_Project/actions/workflows/Unit-Testing.yml)
+
 # Functions used
 * Structures
 * Pointer
