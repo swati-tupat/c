@@ -34,6 +34,10 @@ C/C++ :
 
 [![C/C++ CI](https://github.com/swati-tupat/LTTS_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/swati-tupat/LTTS_Project/actions/workflows/c-cpp.yml)
 
+Code Coverage :
+
+[![Code Coverage](https://github.com/swati-tupat/LTTS_Project/actions/workflows/code-coverage.yml/badge.svg)](https://github.com/swati-tupat/LTTS_Project/actions/workflows/code-coverage.yml)
+
 
 # Functions used
 * Structures
