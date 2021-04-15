@@ -24,7 +24,6 @@ Folder             | Description
 * Pointer
 * User Defined Header File
 * Unity Test Framework
-* Compatibility with Windows and Linux
 * File
 
 # Requirements
@@ -32,7 +31,7 @@ Folder             | Description
 * MakeFile Configuration
 * Mingw-w64(It runs on 64Bit but there is option for 32 bit too)
 * gcc compiler
-* Additional VsCode
+* VsCode Extensions
   * Extension C/C++ 
   * Doxygen Extension
   * C/C++ Debugger Configuration
@@ -52,11 +51,6 @@ Folder             | Description
 	* To delete all the executable files
 		1. Run "make clean"
 
-
-# Installation
-* Fork the project
-* Meet the Requirements
-* Ready to Go!
 
 # Usage
 1. Run program
