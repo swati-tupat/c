@@ -38,6 +38,10 @@ Code Coverage :
 
 [![Code Coverage](https://github.com/swati-tupat/LTTS_Project/actions/workflows/code-coverage.yml/badge.svg)](https://github.com/swati-tupat/LTTS_Project/actions/workflows/code-coverage.yml)
 
+Valgrind_Check :
+
+[![Valgrind_Check](https://github.com/swati-tupat/LTTS_Project/actions/workflows/Valgrind_Check.yml/badge.svg)](https://github.com/swati-tupat/LTTS_Project/actions/workflows/Valgrind_Check.yml)
+
 
 # Functions used
 * Structures
