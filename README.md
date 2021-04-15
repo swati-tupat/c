@@ -9,12 +9,6 @@
 * User can also verify that his/her ticket is booked or not.
 
 
-Build | Unity | [Git Inspector](using github.io option) |
------------------|-----------------|-----------------|-----------------|
-[![C/C++ CI](https://github.com/swati-tupat/LTTS_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/swati-tupat/LTTS_Project/actions/workflows/c-cpp.yml)
-
-[![Unit Testing - Unity](https://github.com/swati-tupat/LTTS_Project/actions/workflows/Unit-Testing.yml/badge.svg)](https://github.com/swati-tupat/LTTS_Project/actions/workflows/Unit-Testing.yml)
-
 
 ## Folder Structure
 Folder             | Description
@@ -30,8 +24,7 @@ Folder             | Description
 * Pointer
 * User Defined Header File
 * Unity Test Framework
-* Compatibility with Windows and Linux
-* File
+
 
 # Requirements
 * Unit Framework Library
