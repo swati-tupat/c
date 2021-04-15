@@ -17,6 +17,8 @@ Folder             | Description
 `4_Test_plan`      | Documents with test plans and procedures
 `5_Report`         | Contains Version of Project and Release Date
 
+# Badges
+[![Contribution Check - Git Inspector](https://github.com/swati-tupat/LTTS_Project/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/swati-tupat/LTTS_Project/actions/workflows/Git_Inspector.yml)
 # Functions used
 * Structures
 * Pointer
