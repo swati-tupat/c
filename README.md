@@ -9,11 +9,12 @@
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
-`1_Design`         | Documents specifying design details
-`2_Implementation` | All code and documentation
-`3_Requirements`   | Documents detailing requirements and research
-`4_Test_plan`      | Documents with test plans and procedures
-`5_Report`         | Contains Version of Project and Release Date
+`Design`         | Different UML Diagrams
+`Requirements`   | Documents detailing requirements(high level and low level Requirements) and research
+`Report`         | Contains Version of Project and Release Date
+`Test_plan and outputs`      | Documents with test plans and procedures and outputs
+`implementation` | Code Files required for project
+
 
 # Badges
 Contribution Check - Git Inspector :
