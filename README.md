@@ -5,7 +5,19 @@
 
 # Description
 * The system is about booking the tickets of user whose credentials gets accepted. User can login to system to check the Train details and booked tickets. User can also verify that his/her ticket is booked or not. Accordingly if the user wants to cancel the booked ticket they can do so.
- 
+
+# System Features
+Features          | 
+-------------------|
+`System will allow the user to login in their respective account`       |
+`Tracks the information about train, bookings, passengers.`        |
+`Display the ticket details.`        |
+`Print the booked tickets.`        |
+`User can cancel the tickets.`        |
+`User can Validate the tickets.`        |
+`User can view all the available trains.`        |
+
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
