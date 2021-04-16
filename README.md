@@ -53,13 +53,15 @@ Function Used            |
 
 
 # Requirements for implementation
-
-Requirements |
-| ------------------------ | ------------------ |
-| MakeFile Configuration | Unity Framework |
-| Mingw-w64 | Vs code Extensions |
-| CppCheck  | Valgrind |
-| Code Coverage  |
+Requirements          | 
+-------------------|
+`MakeFile Configuration`       |
+`Unity Framework`       |
+`CppCheck`       |
+`CodeCoverage`       |
+`Valgrind`       |
+`VS Code Extensions(C, C++ , Doxygen etc.)`       |
+`Mingw-w64`       |
 
 
 # Run Project
