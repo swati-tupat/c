@@ -4,9 +4,7 @@
 # Project Name: Railway Reservation System
 
 # Description
-* This system focus on booking ticket of valid user whose credentials gets accepted.
-* User can login to system to check the Train details and booked tickets
-* User can also verify that his/her ticket is booked or not.
+* The system is about booking the tickets of user whose credentials gets accepted. User can login to system to check the Train details and booked tickets. User can also verify that his/her ticket is booked or not. Accordingly if the user wants to cancel the booked ticket they can do so.
  
 ## Folder Structure
 Folder             | Description
