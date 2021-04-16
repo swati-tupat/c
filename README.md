@@ -1,6 +1,6 @@
 
 # Project Name: Railway Reservation System
-![](others/online-railway-reservation-system-project.png)
+![](others/online-railway-reservation-system-project.jpg)
 
 
 # Description
