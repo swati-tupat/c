@@ -1,7 +1,7 @@
 
-# 264869
-# SDLC Activity Based Learning
 # Project Name: Railway Reservation System
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodecreator.org%2Fprojects%2Fonline-railway-reservation-system-project%2F&psig=AOvVaw0GulLK0xVtu5A36Dsjx53d&ust=1618643048133000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDF0raZgvACFQAAAAAdAAAAABAD)
+
 
 # Description
 * The system is about booking the tickets of user whose credentials gets accepted. User can login to system to check the Train details and booked tickets. User can also verify that his/her ticket is booked or not. Accordingly if the user wants to cancel the booked ticket they can do so.
