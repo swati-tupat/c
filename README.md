@@ -54,12 +54,12 @@ Function Used            |
 
 # Requirements for implementation
 
-| Requirements |
-| --- | --- |
+Requirements |
+| ------------------------ | ------------------ |
 | MakeFile Configuration | Unity Framework |
 | Mingw-w64 | Vs code Extensions |
-|CppCheck  | Valgrind |
-|Code Coverage  |
+| CppCheck  | Valgrind |
+| Code Coverage  |
 
 
 # Run Project
