@@ -9,10 +9,10 @@
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
-`Design`         | Different UML Diagrams
-`Requirements`   | Documents detailing requirements(high level and low level Requirements) and research
+`Architecture`         | Different UML Diagrams
 `Report`         | Contains Version of Project and Release Date
-`Test_plan and outputs`      | Documents with test plans and procedures and outputs
+`Requirements`   | Documents detailing requirements(high level and low level Requirements) and research
+`Test_plan`      | Documents with test plans and procedures and outputs
 `implementation` | Code Files required for project
 
 
@@ -43,13 +43,17 @@ Valgrind_Check :
 
 
 # Functions used
-* Structures
-* Pointer
-* User Defined Header File
-* Unity Test Framework
+Folder             | 
+-------------------|
+`Structures`       |
+`User defined header Files`       |
+`Pointers`       |
+`Unity Framwork`       |
+
 
 
 # Requirements
+
 * Unit Framework Library
 * MakeFile Configuration
 * Mingw-w64(It runs on 64Bit but there is option for 32 bit too)
