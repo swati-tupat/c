@@ -25,7 +25,7 @@ void login()
 		printf(" \n                       ENTER PASSWORD:-");
 		scanf("%s",passs);
 		i=0;
-		if(strcmp(uname,"pass")==0 && strcmp(passs,"pass")==0)
+		if(strcmp(uname,"user")==0 && strcmp(passs,"pass")==0)
 		{
 		printf("  \n\n\n       WELCOME TO OUR SYSTEM !! YOUR LOGIN IS SUCCESSFUL\n");
 		check=1;
@@ -40,7 +40,7 @@ void login()
 		}
 		else
 		{
-			printf("\n        SORRY !!!!  LOGIN IS UNSUCESSFUL\n");
+			printf("\n        SORRY !!!  LOGIN IS FAILED \n");
 			check=0;
 			a++;
 			UNITY_BEGIN();
