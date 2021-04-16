@@ -5,29 +5,29 @@
 
 void specifictrain(int train_num)
 {	
-	if (train_num==1001)
+	if (train_num==2121)
 	{
 		printf("\nTrain:\t\t\tRed Lines Express");
-		printf("\nDestination:\t\tBoston to Manhattan");
-		printf("\nDeparture:\t\t9am ");
+		printf("\nDestination:\t\tMumbai to Khandwa");
+		printf("\nDeparture:\t\t4:00 pm ");
 	}
-	if (train_num==1002)
+	if (train_num==2122)
 	{
 		printf("\nTrain:\t\t\tRed Lines Express");
-		printf("\nDestination:\t\tManhattan to Boston");
-		printf("\nDeparture:\t\t12pm");
+		printf("\nDestination:\t\tKhandwa to Mumbai");
+		printf("\nDeparture:\t\t9:00 am");
 	}
-	if (train_num==1003)
+	if (train_num==2120)
 	{
 		printf("\nTrain:\t\t\tLA City Express");
-		printf("\nDestination:\t\tBoston to L.A");
-		printf("\nDeparture:\t\t8am");
+		printf("\nDestination:\t\tMumbai to Goa");
+		printf("\nDeparture:\t\t4:00 am");
 	}
 	if (train_num==1004)
 	{
 		printf("\nTrain:\t\t\tLA City Express");
-		printf("\nDestination:\t\tL.A to Boston");
-		printf("\nDeparture:\t\t11am ");
+		printf("\nDestination:\t\tGoa to Mumbai");
+		printf("\nDeparture:\t\t5:00 pm ");
 	}
 	if (train_num==1005)
 	{
@@ -52,17 +52,5 @@ void specifictrain(int train_num)
 		printf("\ntrain:\t\t\tKeystone Express");
 		printf("\n Destination:\t\tWashington to Boston");
 		printf("\nDeparture:\t\t4pm ");
-	}
-	if (train_num==1009)
-	{
-		printf("\ntrain:\t\t\tMeteor Express");
-		printf("\nDestination:\t\tBoston to Miami");
-		printf("\nDeparture:\t\t3.35pm ");
-	}
-	if (train_num==1010)
-	{
-		printf("\ntrain:\t\t\tMeteor Express");
-		printf("\nDestination:\t\tMiami to Boston");
-		printf("\nDeparture:\t\t1.15 ");
 	}
 }
