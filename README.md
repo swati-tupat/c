@@ -54,12 +54,13 @@ Function Used            |
 
 # Requirements for implementation
 
-                          Requirements           
--------------------| -----------------------------------------|
-|`MakeFile Configuration`         | Unity Framework |
-|`Mingw-w64`         | Vs code Extensions |
-|`CppCheck` | Valgrind|
-|`Code Coverage` |
+| Requirements |
+| --- | --- |
+| MakeFile Configuration | Unity Framework |
+| Mingw-w64 | Vs code Extensions |
+|CppCheck  | Valgrind |
+|Code Coverage  |
+
 
 # Run Project
 * Username:pass
