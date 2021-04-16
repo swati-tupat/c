@@ -54,10 +54,10 @@ Function Used            |
 
 # Requirements for implementation
 
-Requirements           
+                          Requirements           
 -------------------| -----------------------------------------|
 |`MakeFile Configuration`         | Unity Framework |
-|`Mingw-w64`         | Vs code Extension for -- ( Extension C/C++ | Doxygen Extension | C/C++ Debugger Configuration) |
+|`Mingw-w64`         | Vs code Extensions |
 |`CppCheck` | Valgrind|
 |`Code Coverage` |
 
