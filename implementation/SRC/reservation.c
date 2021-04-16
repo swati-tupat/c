@@ -47,7 +47,7 @@ void reservation(void)
 	UNITY_BEGIN();
     RUN_TEST(check_train_num);
     UNITY_END();
-	if(confirm == 'y')
+	if(confirm == 'yes')
 	{
 		fprintf(fp,"%s\t\t%d\t\t%d\t\t%.2f\n",passdetails.name,passdetails.num_of_seats,passdetails.train_num,charges);
 		printf("=========================================");
@@ -58,7 +58,7 @@ void reservation(void)
 	}
 	else
 	{
-		if(confirm=='n'){
+		if(confirm=='no'){
 			printf("\nTICKET BOOKING IS FAILED");
 			printf("\nPress any key to go back to  Main menu_");
 			getchar();
