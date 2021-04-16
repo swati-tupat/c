@@ -15,18 +15,18 @@ void test_sum(void)
     TEST_ASSERT_EQUAL(1,check);
 }
 void validate(){
-    printf("Enter the Ticket Holder name: ");
+    printf("Enter the name of Ticket holder name: ");
     scanf("%s",name);
     check=present(name);
     UNITY_BEGIN();
     RUN_TEST(test_sum);
     UNITY_END(); 
     if(check==1){
-        printf("Ticket Holder exist check the list to confirm Once\n");
+        printf("Ticket Holder Exist.. Validate your tickets..\n");
     }else{
-        printf("No Record Found");
+        printf("RECORD NOT FOUND..\n");
     }
-    printf("\nPress Enter to go back to  Main menu!");
+    printf("\nPress any key to go back to Main menu_");
     getchar();
     getchar();
 }
