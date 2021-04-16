@@ -52,15 +52,14 @@ Function Used            |
 
 
 
-# Requirements
+# Requirements for implementation
 
-
-Requirements             
--------------------| -----------------------------------------
-`MakeFile Configuration`         | Unity Framework 
-`Mingw-w64`         | Vs code Extension for -- ( Extension C/C++ | Doxygen Extension | C/C++ Debugger Configuration) 
-`CppCheck` | Valgrind
-`Code Coverage` |
+Requirements           
+-------------------| -----------------------------------------|
+|`MakeFile Configuration`         | Unity Framework |
+|`Mingw-w64`         | Vs code Extension for -- ( Extension C/C++ | Doxygen Extension | C/C++ Debugger Configuration) |
+|`CppCheck` | Valgrind|
+|`Code Coverage` |
 
 # Run Project
 * Username:pass
