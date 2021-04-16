@@ -20,7 +20,7 @@ void reservation(void)
 	printf("\nEnter Your Name: ");
 	fflush(stdin);
 	scanf("%s",passdetails.name);
-	printf("\nEnter Number of seats:> ");
+	printf("\nEnter Number of seats: ");
 	scanf("%d",&passdetails.num_of_seats);
 	printf("\n\nPress Enter For Available Trains.. ");
 	getchar();
@@ -41,13 +41,13 @@ void reservation(void)
 		goto start1;
 	}
 	
-	printf("\n\nConfirm Ticket (yes/no):>");
+	printf("\n\nConfirm Ticket (y/n):>");
 	start:
 	scanf(" %c",&confirm);
 	UNITY_BEGIN();
     RUN_TEST(check_train_num);
     UNITY_END();
-	if(confirm == 'yes')
+	if(confirm == 'y')
 	{
 		fprintf(fp,"%s\t\t%d\t\t%d\t\t%.2f\n",passdetails.name,passdetails.num_of_seats,passdetails.train_num,charges);
 		printf("=========================================");
@@ -58,7 +58,7 @@ void reservation(void)
 	}
 	else
 	{
-		if(confirm=='no'){
+		if(confirm=='n'){
 			printf("\nTICKET BOOKING IS FAILED");
 			printf("\nPress any key to go back to  Main menu_");
 			getchar();
