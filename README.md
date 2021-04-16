@@ -63,14 +63,11 @@ Requirements          |
 `VS Code Extensions(C, C++ , Doxygen etc.)`       |
 `Mingw-w64`       |
 
-
 # Run Project
-* Username:pass
+* Username:user
 * password:pass
 * In cmd/terminal at project implementation location
 	* To Run Project
-		1. Run "make"
-		2. Run "make run"
 	* To Test Unit Testing(Ticket is booked or not)
 		1. Run "make test"
 	* To Check the code coverage
@@ -78,21 +75,11 @@ Requirements          |
 	* To delete all the executable files
 		1. Run "make clean"
 
-
-# Installation
-* Fork the project
-* Meet the Requirements
-* Ready to Go!
-
-# Usage
-1. Run program
-2. Follow Instruction display on Screen
-3. Log using Given credentials
-4. Choose the feature given on list
-
 # Credit
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
 `264869` | Swati Tupat  | Feature A, B etc    | Y yes     | Y yes   |Y yes   |Y yes     
+
+
 
