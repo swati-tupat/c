@@ -31,19 +31,19 @@ void compute(){
 	printf("\n=================================\n");
 	printf("    TRAIN RESERVATION SYSTEM");
 	printf("\n=================================");
-	printf("\n1>> Reserve A Ticket");
+	printf("\n(1) Book A Ticket");	
 	printf("\n------------------------");
-	printf("\n2>> View All Available Trains");
+	printf("\n(2) Display Booked Tickets");
 	printf("\n------------------------");
-	printf("\n3>> Display Booked Tickets");
+	printf("\n(3) All Available Trains");
 	printf("\n------------------------");
-	printf("\n4>> Cancel Booked Tickets");
+	printf("\n(4) validate Booked Tickets");
 	printf("\n------------------------");
-	printf("\n5>> validate Booked Tickets");
+	printf("\n(5) Cancel Tickets");
 	printf("\n------------------------");
-	printf("\n6>> Exit");
+	printf("\n(6) Exit");
 	printf("\n------------------------");
-	printf("\n\n-->");
+	printf("\n\nEnter Your Choice: \n\n\n");
 	scanf("%d",&menu_choice);
 	switch(menu_choice)
 	{
@@ -51,19 +51,19 @@ void compute(){
 			reservation();
 			break;
 		case 2:
-			viewdetails();
-			printf("\n\nPress any key to go to Main Menu..");
-			getchar();
-			getchar();
-			break;
-		case 3:
 			display();
 			break;
+		case 3:
+			viewdetails();
+			printf("\n\nPress any key to go to Main menu_");
+			getchar();
+			getchar();
+			break;
 		case 4:
-			cancel();
+			validate();
 			break;
 		case 5:
-			validate();
+			cancel();
 			break;
 		case 6:
 			exit(0);
