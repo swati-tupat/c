@@ -9,16 +9,16 @@ void display(void){
     fp = fopen("seats_reserved.txt", "r");
     if(fp == NULL)
     {
-        printf("No Record Found.....\n");
-        printf("\nPress Enter to go back to  Main menu!");
+        printf("Record Not Found.....\n");
+        printf("\nPress Enter to go back to Main menu_");
         getchar();
     }
-    printf("\nList of the Booked Tickets.\n\n");
+    printf("\n Booked Ticket:\n\n");
     char ch;
     while((ch = fgetc(fp)) != EOF)
         putchar(ch);
     fclose(fp);
-    printf("\nPress Enter to go back to  Main menu!");
+    printf("\nPress any key to go back to Main menu_");
     getchar();
     getchar();
 }
