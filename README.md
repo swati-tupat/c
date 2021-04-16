@@ -42,8 +42,8 @@ Valgrind_Check :
 [![Valgrind_Check](https://github.com/swati-tupat/LTTS_Project/actions/workflows/Valgrind_Check.yml/badge.svg)](https://github.com/swati-tupat/LTTS_Project/actions/workflows/Valgrind_Check.yml)
 
 
-# Functions used
-Folder             | 
+# Functions used for implementation
+Function Used            | 
 -------------------|
 `Structures`       |
 `User defined header Files`       |
@@ -54,17 +54,13 @@ Folder             |
 
 # Requirements
 
-* Unit Framework Library
-* MakeFile Configuration
-* Mingw-w64(It runs on 64Bit but there is option for 32 bit too)
-* gcc compiler
-* Additional VsCode
-  * Extension C/C++ 
-  * Doxygen Extension
-  * C/C++ Debugger Configuration
-* Code Coverage
-* CppCheck(Static memory analysis)
-* Valgrind(Dynamic memory analysis)(Linux)
+
+Requirements             
+-------------------| -----------------------------------------
+`MakeFile Configuration`         | `Unity Framework` 
+`Mingw-w64`         | `Vs code Extension for -- ( |Extension C/C++ | Doxygen Extension | C/C++ Debugger Configuration |`) 
+`CppCheck` | `Valgrind`
+`Code Coverage` 
 
 # Run Project
 * Username:pass
